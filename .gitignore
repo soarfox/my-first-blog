@@ -2,6 +2,7 @@
 *~
 __pycache__
 myvirtaulenv
-db.sqlite3
+# 註解掉以下這一行, 使local db slqlite3檔案能夠使用git指令push到GitHub, 並使pyhtonanywhere能夠pull, 如此在上線的網站中呈現
+# db.sqlite3
 /static
 .DS_Store
